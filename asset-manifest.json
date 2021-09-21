@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.bd7e7081.chunk.js",
-    "main.js.map": "/static/js/main.bd7e7081.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0e59dfc8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0e59dfc8.js.map",
-    "static/js/2.c9f2d95e.chunk.js": "/static/js/2.c9f2d95e.chunk.js",
-    "static/js/2.c9f2d95e.chunk.js.map": "/static/js/2.c9f2d95e.chunk.js.map",
-    "static/js/3.9cdb86a2.chunk.js": "/static/js/3.9cdb86a2.chunk.js",
-    "static/js/3.9cdb86a2.chunk.js.map": "/static/js/3.9cdb86a2.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.c9f2d95e.chunk.js.LICENSE.txt": "/static/js/2.c9f2d95e.chunk.js.LICENSE.txt"
+    "main.js": "/Huddle-Landing-Page/static/js/main.bd7e7081.chunk.js",
+    "main.js.map": "/Huddle-Landing-Page/static/js/main.bd7e7081.chunk.js.map",
+    "runtime-main.js": "/Huddle-Landing-Page/static/js/runtime-main.306d3fe5.js",
+    "runtime-main.js.map": "/Huddle-Landing-Page/static/js/runtime-main.306d3fe5.js.map",
+    "static/js/2.d720fa12.chunk.js": "/Huddle-Landing-Page/static/js/2.d720fa12.chunk.js",
+    "static/js/2.d720fa12.chunk.js.map": "/Huddle-Landing-Page/static/js/2.d720fa12.chunk.js.map",
+    "static/js/3.9cdb86a2.chunk.js": "/Huddle-Landing-Page/static/js/3.9cdb86a2.chunk.js",
+    "static/js/3.9cdb86a2.chunk.js.map": "/Huddle-Landing-Page/static/js/3.9cdb86a2.chunk.js.map",
+    "index.html": "/Huddle-Landing-Page/index.html",
+    "static/js/2.d720fa12.chunk.js.LICENSE.txt": "/Huddle-Landing-Page/static/js/2.d720fa12.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0e59dfc8.js",
-    "static/js/2.c9f2d95e.chunk.js",
+    "static/js/runtime-main.306d3fe5.js",
+    "static/js/2.d720fa12.chunk.js",
     "static/js/main.bd7e7081.chunk.js"
   ]
 }
